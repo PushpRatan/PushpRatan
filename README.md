@@ -15,11 +15,7 @@ Source Control: Git <br />
 Unit Testing: Junit <br />
 Other: REST services, core Java, Object-Oriented Javascript (OOPS) <br />
 </p>
-
-<img align="right" width="400" src="https://komarev.com/ghpvc/?username=pushpratan&label=Profile%20views&color=0e75b6&style=flat" alt="pushpratan" />
-
-<p align="left"> <img src="(https://komarev.com/ghpvc/?username=pushpratan&label=Profile%20views&color=0e75b6&style=flat)
-" alt="pushpratan" /> </p>
+<img align="right" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="400" alt="animated gif" />
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
