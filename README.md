@@ -18,7 +18,7 @@ Other: REST services, core Java, Object-Oriented Javascript (OOPS) <br />
 
 <img align="right" width="400" src="https://komarev.com/ghpvc/?username=pushpratan&label=Profile%20views&color=0e75b6&style=flat" alt="pushpratan" />
 
-<p align="left"> <img src="(https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif)
+<p align="left"> <img src="(https://komarev.com/ghpvc/?username=pushpratan&label=Profile%20views&color=0e75b6&style=flat)
 " alt="pushpratan" /> </p>
 
 <h3 align="left">Connect with me:</h3>
