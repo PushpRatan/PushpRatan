@@ -18,7 +18,8 @@ Other: REST services, core Java, Object-Oriented Javascript (OOPS) <br />
 
 <img align="right" width="400" src="https://komarev.com/ghpvc/?username=pushpratan&label=Profile%20views&color=0e75b6&style=flat" alt="pushpratan" />
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=pushpratan&label=Profile%20views&color=0e75b6&style=flat" alt="pushpratan" /> </p>
+<p align="left"> <img src="![image](https://github.com/PushpRatan/PushpRatan/assets/92618493/023d6579-c334-4fd1-85e0-d8ab21113a3f)
+" alt="pushpratan" /> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
