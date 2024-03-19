@@ -14,8 +14,9 @@ CI/CD: Github actions <br />
 Source Control: Git <br />
 Unit Testing: Junit <br />
 Other: REST services, core Java, Object-Oriented Javascript (OOPS) <br />
-
 </p>
+
+<img align="right" width="400" src="https://komarev.com/ghpvc/?username=pushpratan&label=Profile%20views&color=0e75b6&style=flat" alt="pushpratan" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pushpratan&label=Profile%20views&color=0e75b6&style=flat" alt="pushpratan" /> </p>
 
