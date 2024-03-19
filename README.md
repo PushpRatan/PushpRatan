@@ -6,6 +6,8 @@
   
 I am a Software Engineer specializing in architecting, and developing end-to-end fullstack solutions.
 
+<img align="right" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="400" alt="animated gif" />
+
 Languages: Java, Javascript, <br />
 Frontend: React.js, Next.js, Redux.js ,HTML, CSS, Webpack <br />
 Backend: Node.js, SpringBoot<br />
@@ -15,7 +17,7 @@ Source Control: Git <br />
 Unit Testing: Junit <br />
 Other: REST services, core Java, Object-Oriented Javascript (OOPS) <br />
 </p>
-<img align="right" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="400" alt="animated gif" />
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
